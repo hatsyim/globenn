@@ -1,0 +1,7 @@
+Command line:
+-------------
+/home/taufikmh/miniconda3/envs/thesis-pytorch/bin/obspyDMT --datapath neic_event_metadata --min_mag 8 --min_date 2014-01-01 --max_date 2015-01-01 --event_catalog NEIC_USGS --event_info 
+
+#number,event_id,datetime,latitude,longitude,depth,magnitude,magnitude_type,author,flynn_region,mrr,mtt,mpp,mrt,mrp,mtp,stf_func,stf_duration,t1,t2
+1,20140401_234647.a,2014-04-01T23:46:47.260000Z,-19.6097,-70.7691,25.0,8.2,mww,None,NAN,8.68e+20,5e+18,-8.73e+20,7.48e+20,-2.041e+21,1.77e+20,None,None,2014-04-01T23:46:47.260000Z,2014-04-02T00:16:47.260000Z
+

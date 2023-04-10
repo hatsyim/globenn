@@ -1,0 +1,8 @@
+Command line:
+-------------
+/home/taufikmh/miniconda3/envs/thesis-pytorch/bin/obspyDMT --datapath neic_event_metadata --min_mag 8 --min_date 2014-01-01 --max_date 2015-01-01 --event_catalog NEIC_USGS --event_info 
+
+#N LAT       LON       DEP DATETIME             MAG  AUTH  EV_ID              FLY  
+--------------------------------------------------------------------------------
+1   -19.610   -70.769  25  2014-04-01T23:46:47  8.2  None  20140401_234647.a  NAN
+--------------------------------------------------------------------------------
